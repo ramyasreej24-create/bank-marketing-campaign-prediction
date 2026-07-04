@@ -1,4 +1,4 @@
-# bank-marketing-campaign-prediction
+
 # Bank Marketing Campaign Prediction
 
 Predicting whether a client will subscribe to a term deposit based on personal,
